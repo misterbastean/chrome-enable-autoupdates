@@ -8,7 +8,7 @@
 
 # Spawned from this thread: https://www.jamf.com/jamf-nation/discussions/23323/how-to-update-chrome-automatically
 
-# Bash version of this script (which I also contributed a tiny piece to):
+# Python version of this script (which I also contributed a tiny piece to):
 #   https://github.com/hjuutilainen/adminscripts/blob/master/chrome-enable-autoupdates.py
 
 chromePath="/Applications/Google Chrome.app"
